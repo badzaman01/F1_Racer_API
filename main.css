@@ -1,0 +1,39 @@
+.input {
+  text-align: center;
+  padding-top: 2%;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 4%;
+}
+
+#name {
+  text-align: center;
+}
+
+#newCard {
+  width: 50%;
+  font-size: 25px;
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  column-width: 150%;
+}
+
+#img-btn {
+  margin-top: 40%;
+  margin-bottom: 60%;
+}
+
+#pic-image {
+  margin-bottom: 5%;
+  padding-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+body {
+  background-color: lightcoral;
+}
